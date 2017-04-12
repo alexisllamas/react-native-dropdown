@@ -22,13 +22,12 @@ This calculates component's PositionX and PositionY and sets it back into the co
 ## Example
 
 ```js
-var React = require('react-native');
-var {
-  Component,
+import React, { Component } from 'react';
+import {
   AppRegistry,
   Text,
   View,
-} = React;
+} from 'react-native';
 
 const DropDown = require('react-native-dropdown');
 const {
