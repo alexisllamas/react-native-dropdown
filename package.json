@@ -8,21 +8,28 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:alinz/react-native-dropdown.git"
+    "url": "git@github.com:alexisllamas/react-native-dropdown.git"
   },
   "keywords": [
     "react-component",
     "react-native"
   ],
   "author": {
-    "name": "Ali Najafizadeh",
-    "email": "a.najafizadeh@gmail.com",
-    "url": "http://github.com/alinz"
+    "name": "Alexis Navarro",
+    "email": "alexis@michelada.io",
+    "url": "http://github.com/alexisllamas"
   },
-  "contributors" : ["Azhar khan <azhar.mw@gmail.com>"],
+  "contributors": [
+    "Azhar khan <azhar.mw@gmail.com>",
+    "Alexis Navarro <alexis@michelada.io>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alinz/react-native-dropdown"
+    "url": "https://github.com/alexisllamas/react-native-dropdown"
   },
-  "homepage": "https://github.com/alinz/react-native-dropdown"
+  "homepage": "https://github.com/alexisllamas/react-native-dropdown",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-native": "^0.43.3"
+  }
 }
