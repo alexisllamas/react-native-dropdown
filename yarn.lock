@@ -2370,6 +2370,13 @@ react-devtools-core@^2.0.8:
     cross-env "^3.1.4"
     ws "^2.0.3"
 
+react-native-dropdown2@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-dropdown2/-/react-native-dropdown2-0.1.0.tgz#f00faeeeb6a114ecfd148f5d9135df638ae30232"
+  dependencies:
+    react "^15.5.4"
+    react-native "^0.43.3"
+
 react-native@^0.43.3:
   version "0.43.3"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.43.3.tgz#4f8e0d8d88827553789c02ef21cbc1afb68474d0"
