@@ -7,7 +7,7 @@ React Native Dropdown is simple, customizable and easy to use dropdown in React 
 
 ## Installation
 ```
-npm i react-native-dropdown --save
+npm i react-native-dropdown2 --save
 ```
 
 ## Usage
