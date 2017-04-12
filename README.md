@@ -1,3 +1,4 @@
+THIS IS A FORK FROM linz/react-native-dropdown I ONLY UPDATE REACT NATIVE
 # React Native Dropdown
 Simple DropDown menu for React Native App!
 
