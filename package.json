@@ -30,7 +30,6 @@
   "homepage": "https://github.com/alexisllamas/react-native-dropdown",
   "dependencies": {
     "react": "^15.5.4",
-    "react-native": "^0.43.3",
-    "react-native-dropdown2": "^0.1.0"
+    "react-native": "^0.43.3"
   }
 }
